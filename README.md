@@ -1,5 +1,5 @@
 # 💫 About Me:
-20 y/o builder based in Blida. I live in the space where heavy tech meets creative business. Currently in my 3rd year studying Information Systems and Software Engineering (ISIL), I deep-dive into the startup world, full-stack development, and CCNA networking. I'm stepping into the project management and entrepreneurship space with one core philosophy: never just execute—innovate. Every project, every pitch, and every deployment is an opportunity to showcase my creativity.<br>
+20 y/o builder based in Blida. I live in the space where heavy tech meets creative business. Currently in my 3rd year studying Information Systems and Software Engineering (ISIL) and interning at Algerian Government Authority for Electronic Certification (AGCE/Sidi Abdellah), I deep-dive into the startup world, full-stack development, and CCNA networking. I'm stepping into the project management and entrepreneurship space with one core philosophy: never just execute—innovate. Every project, every pitch, and every deployment is an opportunity to showcase my creativity<br>
 
 
 ## 🌐 Socials:
